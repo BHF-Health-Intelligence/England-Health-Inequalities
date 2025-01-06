@@ -3,9 +3,7 @@ Data and R code for the BHF England Health Inequalities Report 2025
 
 BHF's Health Analytics Team has brought together data that explores how deprivation impacts cardiovascular diseases in England. 
 
-This file holds the code developed for the analysis presented in the report.
-
-The script analyses pubicly available data sources related to cardiovascular disease and deprivation, employing factor functions to organise categorical variables and performing data transformations to calculate aggregates and generate visualisations for health insights. 
+This file holds the code developed for the analysis presented in the report. The script analyses publicly available data sources related to cardiovascular disease and deprivation, employing factor functions to organise categorical variables and performing data transformations to calculate aggregates and generate visualisations for health insights. 
 
 Data sources:
   * Data on risk factors sourced from CVDPREVENT, Health Survey for England, and Office for Health Improvement and Disparities (OHID), Fingertips.
