@@ -1,3 +1,7 @@
+##### England's Health Inequalities Analysis script #####
+### Authors: Camila Pulliza
+### Date created: 06/01/2025
+
 ##### Packages #####
 options(scipen = 999)
 library(dplyr)
