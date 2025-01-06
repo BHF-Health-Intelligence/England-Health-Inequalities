@@ -208,7 +208,7 @@ setwd('C:/Users/pullizac/OneDrive - British Heart Foundation/Documents/Projects/
 source("C:/Users/pullizac/OneDrive - British Heart Foundation/Documents/R/BHF theme 1.R")
 
 ###### Section 3 - Analysis #######
-
+###### Section 3.1 - Read datasets #######
 #READ ALL DATASETS
 {
 #Read the conditions dataset
@@ -246,6 +246,7 @@ survey_2 <- read.xlsx("survey_2.xlsx")
 
 }
 
+###### Section 3.2 - Factors #######
 #SETTING IMD AS A FACTOR#
 {
 #Order for the conditions dataset by deprivation
@@ -416,6 +417,7 @@ survey_2$Category <- factor(survey_2$Category, levels = c("1",
                                                               "5"))
 }
 
+###### Section 3.3 - Plots #######
 #RISK FACTORS#
 {
 #Plot obesity prevalence (%) by deprivation
