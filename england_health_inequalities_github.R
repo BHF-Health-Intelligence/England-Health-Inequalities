@@ -1,5 +1,5 @@
 ##### England's Health Inequalities Analysis script #####
-### Authors: Camila Pulliza
+### Authors: Camila Pulliza and Tom Almond
 ### Date created: 06/01/2025
 
 ##### Packages #####
